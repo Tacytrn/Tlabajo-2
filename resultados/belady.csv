@@ -1,0 +1,7 @@
+algoritmo,marcos,fallos,aciertos
+FIFO,3,9,3
+LRU,3,10,2
+Reloj,3,9,3
+FIFO,4,10,2
+LRU,4,8,4
+Reloj,4,10,2
